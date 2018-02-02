@@ -1,4 +1,4 @@
-update=Fri 21 Apr 2017 02:17:08 AM CEST
+update=Fri 02 Feb 2018 07:01:42 PM CET
 version=1
 last_client=kicad
 [pcbnew]
@@ -23,11 +23,9 @@ ModuleOutlineThickness=0.150000000000
 [cvpcb]
 version=1
 NetIExt=net
-[general]
-version=1
 [eeschema]
 version=1
-LibDir=../../../hw-lib
+LibDir=../../hw-kicad
 [eeschema/libraries]
 LibName1=power
 LibName2=device
@@ -59,3 +57,5 @@ LibName27=atmel
 LibName28=contrib
 LibName29=valves
 LibName30=device.farm
+[general]
+version=1
