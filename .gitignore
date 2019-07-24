@@ -1,8 +1,6 @@
 *.bak
 *.bck
 *.kicad_pcb-bak
-*-cache.lib
 build
-nbproject
 node_modules
 
