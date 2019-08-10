@@ -1,0 +1,3 @@
+(sym_lib_table
+  (lib (name CR1A-rescue)(type Legacy)(uri ${KIPRJMOD}/CR1A-rescue.lib)(options "")(descr ""))
+)
